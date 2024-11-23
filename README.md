@@ -1,5 +1,12 @@
 ### Hi there 👋
+we are youtorrent, we belive in TRON DAO (Decentralized Autonomous Organization) and our flagship is BitTorrent.
+https://tron.network/
+https://bt.io/
 
+BitTorrent File System
+https://btfs.io/
+testing deploying via github on BTFS Storage3 app 
+https://storage3.btfs.io/
 <!--
 **youtorrent/youtorrent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
